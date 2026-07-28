@@ -12,7 +12,3 @@ project["progress"] = 7                     #change "progress": 6
 
 print(project)
 
-#key ={
-#    "status": "in progress"
-#}
-#project[]
